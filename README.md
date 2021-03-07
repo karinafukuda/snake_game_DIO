@@ -1,6 +1,7 @@
-<h1> Snake Game - DIO  <i class="fas fa-gamepad"></i> </h1>
+<h1> Snake Game - DIO  </h1>
 
 <br>
+<i class="fas fa-gamepad"></i>
 
 <p>Exercício proposto no Bootcamp Web Developer HTML, onde deveríamos criar uma réplica do jogo da cobrinha.</p>
 
