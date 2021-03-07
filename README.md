@@ -1,5 +1,4 @@
-<h1> Snake Game - DIO  
-<a href="https://www.flaticon.com/free-icon/snake_3969724?related_id=3969724&origin=pack"></a>;</h1>
+<h1> Snake Game - DIO  <i class="fas fa-gamepad"></i> </h1>
 
 <br>
 
