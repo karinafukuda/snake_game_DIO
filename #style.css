@@ -1,0 +1,12 @@
+body{
+    height:  95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: grey;
+    border-radius: 4px;
+    color: rgb(43, 138, 43);
+};
+
